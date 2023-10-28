@@ -1,10 +1,10 @@
 ### Request Module
 	send a http post request to our server.
-	Decode json data (responce of our server)
+	Decode json data (response of our server)
 ### WebSocket Module
 	connect to our ws
 	send data in json format
-	decode messages sended with tag [SERVER] (Sould be used for displaying Team points in realtime)
+	decode messages sended with tag [SERVER] (Should be used for displaying Team points in realtime)
 ### IR Module
 	Combine necessary data that will be sent
 	Decode received data
