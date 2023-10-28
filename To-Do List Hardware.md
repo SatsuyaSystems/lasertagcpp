@@ -11,6 +11,6 @@
 	On hit call our ws
 ### Update Module
 	Request version and compare with current
-	must be initialized and done befor all other files are initialized because we prob. cant modify them when there loaded.
-	Download new data form server and replace files
+	must be initialized and done before all other files are initialized because we prob. cant modify them when they are loaded.
+	Download new data from server and replace files
 	Reset device version to newest
